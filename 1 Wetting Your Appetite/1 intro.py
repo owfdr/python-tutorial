@@ -1,0 +1,8 @@
+print("Acquire:")
+print("- module = python file")
+print("- library = collection of modules")
+print("- interpreted = line by line execution")
+print("- compiled = all translated")
+print("- extensible = extend C functionalities by writing Python scripts")
+print("- command = use Python to interact C program")
+print("- BBC's show = Monty Python's Flying Circus")
